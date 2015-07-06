@@ -1,0 +1,18 @@
+
+{
+  "name": "wuu-library",
+  "version": "0.0.1",
+  "description": "Web dau tay",
+  "repository": {
+  	"type": "git",
+    "url": "git@github.com:wuuphong/wuuphong-library.git"
+  },
+  "keywords": [
+  "wuuphong"
+  ],
+  "files": [
+	"css",
+	"fonts",
+	"js"
+	]
+}
